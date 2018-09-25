@@ -13,6 +13,8 @@ namespace PruebaTesisGit02.Controllers
         {
             return View();
             //holip es una prueba:(
+
+            Console.WriteLine("Hola sin morir");
         }
     }
 }
